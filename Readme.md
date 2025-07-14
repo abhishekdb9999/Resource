@@ -1,1 +1,1 @@
-these are malware infected files for handson labs
+These are malware infected files for Learning Malware analysis 
